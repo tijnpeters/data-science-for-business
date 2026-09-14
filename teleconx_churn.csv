@@ -1,0 +1,651 @@
+customer_id,tenure_months,monthly_charge,contract_type,support_calls_6m,internet_service,autopay,churn
+10001,34,81.5,Month-to-month,0,Fiber,Yes,0
+10002,12,38.73,Two year,1,Fiber,Yes,0
+10003,12,84.38,Month-to-month,3,Fiber,Yes,1
+10004,43,89.44,Month-to-month,3,Fiber,Yes,1
+10005,57,40.69,One year,3,Fiber,Yes,0
+10006,72,71.67,Month-to-month,1,DSL,Yes,0
+10007,64,82.72,Two year,1,DSL,No,0
+10008,18,51.46,Month-to-month,2,Fiber,Yes,1
+10009,66,92.21,One year,0,Fiber,No,0
+10010,30,60.48,Two year,1,None,Yes,0
+10011,69,63.73,Two year,2,Fiber,Yes,0
+10012,70,94.61,Month-to-month,4,Fiber,Yes,0
+10013,30,,Month-to-month,3,Fiber,Yes,1
+10014,54,50.1,Month-to-month,1,DSL,No,0
+10015,44,102.21,month-to-month ,0,Fiber,No,1
+10016,24,29.52,One year,0,Fiber,No,0
+10017,18,63.88,Month-to-month,2,Fiber,No,1
+10018,55,94.15,One year,1,DSL,Yes,1
+10019,7,103.25,One year,0,DSL,No,1
+10020,13,62.88,Month-to-month,1,Fiber,Yes,0
+10021,59,75.31,One year,1,Fiber,Yes,0
+10022,41,84.93,Month-to-month,4,DSL,No,1
+10023,14,35.32,Month-to-month,1,Fiber,Yes,0
+10024,36,98.72,Month-to-month,1,Fiber,Yes,1
+10025,57,26.78,One year,1,DSL,No,0
+10026,43,89.17,Month-to-month,1,Fiber,Yes,1
+10027,47,81.0,Two year,0,Fiber,Yes,0
+10028,52,52.07,One year,0,Fiber,No,0
+10029,56,20.5,Month-to-month,2,Fiber,Yes,0
+10030,5,49.83,Month-to-month,1,Fiber,No,1
+10031,2,61.32,Month-to-month,0,DSL,Yes,0
+10032,16,59.34,Month-to-month,0,DSL,Yes,1
+10033,25,79.54,Two year,1,Fiber,No,0
+10034,55,86.26,One year,1,Fiber,No,0
+10035,44,51.48,One year,2,DSL,Yes,0
+10036,19,74.42,ONE YEAR,3,Fiber,No,1
+10037,41,64.86,Month-to-month,0,Fiber,Yes,0
+10038,41,88.45,Month-to-month,0,Fiber,Yes,0
+10039,35,72.99,One year,1,None,No,0
+10040,46,71.51,Month-to-month,0,Fiber,Yes,1
+10041,50,80.42,Month-to-month,3,Fiber,Yes,0
+10042,13,68.1,Two year,2,Fiber,Yes,1
+10043,50,77.82,Month-to-month,3,DSL,Yes,1
+10044,63,30.8,Month-to-month,2,Fiber,Yes,0
+10045,72,27.44,Month-to-month,2,DSL,Yes,0
+10046,16,81.97,Month-to-month,2,Fiber,No,1
+10047,59,83.32,Month-to-month,4,DSL,No,0
+10048,24,110.59,One year,3,DSL,No,0
+10049,60,68.74,Month-to-month,1,DSL,Yes,0
+10050,31,51.28,One year,0,DSL,No,0
+10051,56,69.24,One year,0,None,No,0
+10052,69,18.04,One year,1,Fiber,Yes,0
+10053,71,65.04,Month-to-month,3,DSL,Yes,0
+10054,21,66.36,Two year,2,Fiber,Yes,0
+10055,9,95.8,One year,0,DSL,Yes,1
+10056,38,100.8,One year,3,Fiber,Yes,0
+10057,35,92.06,Month-to-month,1,Fiber,No,1
+10058,71,88.27,Month-to-month,2,Fiber,No,0
+10059,70,73.15,Month-to-month,3,Fiber,No,0
+10060,47,103.99,Month-to-month,1,Fiber,No,0
+10061,9,66.66,Month-to-month,1,Fiber,Yes,1
+10062,37,36.53,One year,1,Fiber,Yes,0
+10063,6,72.94,Month-to-month,1,Fiber,Yes,1
+10064,15,71.29,One year,2,None,No,0
+10065,67,60.88,Month-to-month,2,DSL,Yes,0
+10066,1,72.46,Month-to-month,1,DSL,No,0
+10067,6,29.7,One year,0,DSL,Yes,0
+10068,58,112.91,Month-to-month,1,DSL,Yes,1
+10069,60,108.8,Two year,2,DSL,Yes,0
+10070,66,93.49,Month-to-month,3,None,Yes,0
+10071,64,63.38,Month-to-month,2,DSL,No,0
+10072,66,145.0,Month-to-month,6,DSL,Yes,0
+10073,23,71.27,Month-to-month,2,Fiber,Yes,0
+10074,40,97.31,Month-to-month,3,DSL,Yes,1
+10075,28,85.21,One year,2,Fiber,Yes,0
+10076,33,63.03,Month-to-month,0,DSL,Yes,0
+10077,4,77.61,Month-to-month,1,DSL,Yes,0
+10078,69,,One year,1,Fiber,No,0
+10079,17,42.67,Month-to-month,2,None,Yes,0
+10080,60,101.91,Two year,1,Fiber,Yes,0
+10081,50,28.83,One year,2,Fiber,Yes,0
+10082,12,75.04,Month-to-month,2,Fiber,Yes,0
+10083,45,112.94,Two year,2,DSL,Yes,1
+10084,18,52.12,Two year,1,Fiber,Yes,0
+10085,1,65.83,Two year,3,Fiber,No,0
+10086,62,47.55,Month-to-month,1,Fiber,Yes,0
+10087,45,84.69,One year,1,Fiber,Yes,0
+10088,18,70.55,Month-to-month,0,Fiber,No,1
+10089,61,99.28,Month-to-month,4,DSL,No,0
+10090,71,78.4,One year,4,DSL,No,0
+10091,11,87.62,Two year,1,DSL,Yes,1
+10092,13,92.57,Two year,1,None,No,0
+10093,40,58.59,Month-to-month,3,DSL,Yes,0
+10094,63,69.63,Month-to-month,0,Fiber,No,0
+10095,53,47.91,Two year,3,Fiber,Yes,0
+10096,26,61.07,Month-to-month,0,Fiber,Yes,0
+10097,52,63.13,One year,0,DSL,No,0
+10098,43,55.63,Month-to-month,2,Fiber,Yes,0
+10099,41,78.86,Two year,1,DSL,Yes,0
+10100,33,46.97,One year,1,DSL,Yes,0
+10101,13,73.3,Month-to-month,2,DSL,Yes,0
+10102,24,75.59,Month-to-month,0,DSL,Yes,0
+10103,69,87.37,One year,3,DSL,No,0
+10104,52,41.53,Two year,1,DSL,Yes,0
+10105,43,18.0,Two year,1,None,No,0
+10106,66,31.33,One year,0,Fiber,Yes,0
+10107,19,53.06,ONE YEAR,1,DSL,Yes,1
+10108,50,49.85,One year,1,Fiber,Yes,0
+10109,28,65.09,Month-to-month,0,Fiber,Yes,1
+10110,38,107.91,One year,2,Fiber,No,0
+10111,28,91.8,One year,0,Fiber,No,0
+10112,65,66.77,One year,1,DSL,No,0
+10113,49,89.19,Two year,2,DSL,Yes,0
+10114,60,67.54,Month-to-month,4,Fiber,No,1
+10115,7,86.27,Month-to-month,2,Fiber,No,1
+10116,54,86.15,Month-to-month,2,DSL,Yes,0
+10117,67,95.42,Two year,1,Fiber,No,0
+10118,7,,Two year,3,Fiber,Yes,0
+10119,60,67.2,Month-to-month,4,Fiber,Yes,0
+10120,10,70.28,Month-to-month,1,DSL,No,1
+10121,58,108.69,One year,4,Fiber,Yes,0
+10122,47,103.53,One year,1,None,Yes,0
+10123,10,62.03,Month-to-month,1,None,Yes,1
+10124,25,79.07,Month-to-month,2,DSL,Yes,1
+10125,28,91.51,Month-to-month,3,Fiber,Yes,0
+10126,47,58.01,Month-to-month,2,Fiber,No,0
+10127,70,75.09,Two year,0,DSL,No,0
+10128,70,70.93,Month-to-month,4,DSL,No,0
+10129,63,75.86,Month-to-month,2,Fiber,Yes,1
+10130,19,75.33,Month-to-month,1,DSL,No,1
+10131,24,,ONE YEAR,0,Fiber,Yes,0
+10132,22,96.86,One year,1,Fiber,Yes,0
+10133,9,76.83,One year,3,Fiber,No,0
+10134,67,48.88,Month-to-month,1,Fiber,No,0
+10135,30,113.76,Month-to-month,0,DSL,No,0
+10136,18,37.54,One year,1,Fiber,Yes,0
+10137,47,26.98,Month-to-month,2,DSL,No,0
+10138,23,102.44,Two year,1,Fiber,Yes,0
+10139,56,109.27,Two year,3,Fiber,Yes,0
+10140,15,62.99,Month-to-month,1,Fiber,Yes,0
+10141,1,73.74,Month-to-month,2,Fiber,No,1
+10142,47,53.07,Month-to-month,1,Fiber,Yes,0
+10143,66,58.68,Month-to-month,3,DSL,No,0
+10144,46,57.63,Month-to-month,3,None,No,1
+10145,7,90.63,Two year,2,Fiber,Yes,1
+10146,51,31.08,Two year,2,Fiber,Yes,1
+10147,66,99.74,Month-to-month,2,Fiber,Yes,0
+10148,26,52.06,Two year,1,Fiber,Yes,0
+10149,1,98.67,Two year,1,DSL,Yes,0
+10150,4,57.59,Two year,1,Fiber,No,0
+10151,44,58.59,Month-to-month,2,Fiber,No,0
+10152,8,81.76,Month-to-month,3,Fiber,Yes,0
+10153,44,79.28,Two year,2,Fiber,No,1
+10154,66,100.22,One year,2,DSL,No,0
+10155,61,74.33,One year,1,Fiber,No,0
+10156,35,67.54,One year,4,DSL,Yes,0
+10157,36,49.85,Two year,1,DSL,No,0
+10158,20,63.42,Two year,0,Fiber,No,1
+10159,37,55.61,Month-to-month,1,DSL,Yes,0
+10160,72,19.59,One year,1,None,Yes,0
+10161,68,52.35,One year,0,Fiber,Yes,0
+10162,30,44.13,Month-to-month,1,Fiber,No,0
+10163,52,108.82,One year,1,Fiber,No,1
+10164,48,95.74,Month-to-month,1,DSL,Yes,1
+10165,61,87.09,Month-to-month,1,DSL,No,0
+10166,27,82.45,Month-to-month,3,Fiber,Yes,1
+10167,6,70.05,Month-to-month,4,Fiber,Yes,1
+10168,54,63.5,Month-to-month,5,DSL,No,0
+10169,6,78.15,Two year,3,DSL,Yes,1
+10170,33,101.08,Month-to-month,0,None,Yes,0
+10171,38,84.31,Month-to-month,0,DSL,Yes,1
+10172,39,88.52,Month-to-month,2,Fiber,Yes,0
+10173,33,56.47,One year,1,DSL,No,0
+10174,16,64.82,Two year,2,Fiber,Yes,0
+10175,58,102.7,Month-to-month,2,Fiber,No,0
+10176,46,44.54,Two year,1,DSL,Yes,0
+10177,50,117.17,Two year,1,Fiber,Yes,0
+10178,24,60.24,Month-to-month,3,Fiber,Yes,0
+10179,66,68.63,One year,0,DSL,No,0
+10180,68,40.75,One year,3,Fiber,Yes,0
+10181,28,82.83,Two year,0,DSL,No,0
+10182,9,66.15,Month-to-month,1,DSL,Yes,0
+10183,34,106.24,Month-to-month,2,Fiber,Yes,0
+10184,25,62.91,Month-to-month,4,DSL,No,0
+10185,65,40.7,One year,2,DSL,Yes,0
+10186,67,,One year,6,DSL,Yes,0
+10187,50,41.25,One year,2,DSL,Yes,0
+10188,33,86.08,Month-to-month,1,Fiber,Yes,0
+10189,38,18.0,One year,1,Fiber,Yes,0
+10190,67,65.57,Month-to-month,2,DSL,No,0
+10191,42,122.58,Two year,3,None,No,1
+10192,42,113.82,One year,2,Fiber,Yes,0
+10193,54,51.99,One year,2,Fiber,No,1
+10194,17,84.99,One year,2,Fiber,Yes,0
+10195,11,62.62,One year,3,None,Yes,0
+10196,27,73.73,One year,3,DSL,No,0
+10197,19,57.96,Two year,0,DSL,Yes,0
+10198,62,102.69,Month-to-month,2,None,Yes,0
+10199,45,80.29,Month-to-month,4,DSL,Yes,1
+10200,33,91.3,One year,1,Fiber,Yes,0
+10201,24,93.46,One year,1,Fiber,Yes,0
+10202,28,77.23,Month-to-month,1,Fiber,No,0
+10203,17,56.14,Two year,0,Fiber,Yes,0
+10204,68,48.5,Month-to-month,0,DSL,Yes,0
+10205,28,58.78,One year,1,Fiber,Yes,0
+10206,70,108.54,One year,2,DSL,No,0
+10207,8,78.01,Two year,2,Fiber,No,0
+10208,23,27.82,Month-to-month,2,None,No,0
+10209,71,102.35,Month-to-month,5,DSL,Yes,1
+10210,39,95.34,Month-to-month,1,DSL,Yes,0
+10211,47,61.23,Month-to-month,5,DSL,Yes,0
+10212,61,113.94,One year,3,DSL,No,0
+10213,68,132.05,Two year,1,Fiber,Yes,0
+10214,5,36.0,Two year,2,Fiber,Yes,1
+10215,1,84.74,Month-to-month,1,Fiber,Yes,0
+10216,15,33.93,Month-to-month,3,Fiber,Yes,0
+10217,18,82.93,One year,0,Fiber,No,0
+10218,35,82.96,Month-to-month,1,Fiber,Yes,0
+10219,9,84.53,One year,0,DSL,No,1
+10220,33,79.21,Month-to-month,1,DSL,Yes,0
+10221,42,55.9,Month-to-month,1,DSL,Yes,0
+10222,48,86.17,Month-to-month,1,DSL,No,0
+10223,22,98.41,Two-Year,3,Fiber,No,0
+10224,7,91.68,Two year,1,Fiber,Yes,0
+10225,57,79.3,Month-to-month,2,Fiber,No,1
+10226,21,78.03,Month-to-month,3,None,Yes,1
+10227,12,66.7,Two year,4,DSL,No,1
+10228,16,88.31,Month-to-month,2,DSL,No,1
+10229,60,71.74,Two year,1,Fiber,Yes,0
+10230,41,,Month-to-month,0,DSL,Yes,0
+10231,21,99.09,One year,3,Fiber,Yes,1
+10232,16,83.9,Month-to-month,0,DSL,Yes,0
+10233,13,78.62,Month-to-month,1,Fiber,Yes,0
+10234,54,39.86,Month-to-month,1,Fiber,Yes,0
+10235,13,101.56,One year,2,Fiber,Yes,0
+10236,22,48.12,month-to-month ,1,DSL,Yes,0
+10237,15,47.94,Month-to-month,2,DSL,Yes,1
+10238,34,123.21,Month-to-month,0,DSL,Yes,0
+10239,68,71.0,One year,1,DSL,No,0
+10240,25,121.4,Month-to-month,1,DSL,Yes,0
+10241,6,124.58,Month-to-month,2,Fiber,Yes,1
+10242,72,90.37,Month-to-month,3,DSL,Yes,1
+10243,47,80.47,One year,1,DSL,No,1
+10244,16,72.33,Month-to-month,1,DSL,No,1
+10245,11,106.04,Month-to-month,0,Fiber,Yes,0
+10246,36,78.03,Two year,1,Fiber,No,0
+10247,28,54.59,Month-to-month,1,Fiber,Yes,0
+10248,65,71.24,One year,0,Fiber,Yes,0
+10249,23,56.38,Two-Year,2,None,No,0
+10250,45,68.46,Two year,1,DSL,No,0
+10251,4,62.66,One year,4,Fiber,Yes,1
+10252,43,87.86,Month-to-month,6,None,No,1
+10253,67,64.99,ONE YEAR,1,DSL,Yes,0
+10254,12,52.11,Month-to-month,1,Fiber,No,1
+10255,70,68.7,Month-to-month,0,DSL,No,0
+10256,42,109.25,Two year,2,DSL,No,1
+10257,7,100.99,One year,2,DSL,No,0
+10258,43,105.14,Month-to-month,2,Fiber,No,1
+10259,23,58.72,One year,2,None,No,0
+10260,40,78.52,Two year,1,Fiber,Yes,0
+10261,24,60.97,Month-to-month,2,Fiber,Yes,1
+10262,55,88.81,Month-to-month,4,None,Yes,1
+10263,41,67.6,Month-to-month,1,DSL,No,1
+10264,13,104.47,Two year,3,DSL,No,0
+10265,45,101.27,Month-to-month,2,Fiber,No,0
+10266,55,86.73,One year,3,None,Yes,0
+10267,16,,Month-to-month,2,Fiber,No,1
+10268,45,92.04,Month-to-month,2,DSL,Yes,0
+10269,53,66.45,One year,0,DSL,Yes,0
+10270,56,60.79,One year,3,DSL,No,1
+10271,5,97.94,Two year,1,DSL,Yes,0
+10272,48,93.4,One year,1,Fiber,Yes,1
+10273,43,34.4,Month-to-month,1,Fiber,Yes,0
+10274,72,94.18,One year,0,DSL,Yes,0
+10275,32,46.39,Month-to-month,2,DSL,Yes,0
+10276,38,72.08,Month-to-month,0,DSL,Yes,0
+10277,61,65.18,Two year,2,DSL,Yes,0
+10278,56,48.64,One year,2,Fiber,Yes,0
+10279,38,69.82,Two year,2,DSL,No,0
+10280,32,66.95,Month-to-month,1,Fiber,No,0
+10281,23,121.26,One year,1,Fiber,Yes,1
+10282,40,52.56,Month-to-month,2,DSL,No,1
+10283,3,65.84,Two year,2,Fiber,Yes,0
+10284,4,47.54,Month-to-month,5,DSL,No,1
+10285,44,56.46,One year,3,None,Yes,0
+10286,6,36.39,One year,2,Fiber,Yes,0
+10287,10,82.81,Month-to-month,1,DSL,No,0
+10288,28,72.36,Month-to-month,0,DSL,No,1
+10289,38,37.23,Month-to-month,1,Fiber,Yes,0
+10290,42,96.57,One year,6,DSL,Yes,1
+10291,60,37.81,Month-to-month,1,None,No,0
+10292,38,18.0,One year,1,Fiber,No,0
+10293,50,65.46,Two year,2,Fiber,Yes,0
+10294,66,65.06,Month-to-month,0,DSL,Yes,0
+10295,25,104.16,Month-to-month,0,DSL,No,0
+10296,72,78.38,Month-to-month,1,Fiber,Yes,0
+10297,8,34.96,Two year,2,None,No,0
+10298,31,33.71,Month-to-month,1,DSL,No,0
+10299,21,59.36,Two year,1,DSL,No,1
+10300,46,72.07,One year,1,Fiber,Yes,0
+10301,3,53.84,Two year,3,Fiber,Yes,0
+10302,35,111.02,Two year,2,Fiber,Yes,0
+10303,19,59.81,Two year,1,Fiber,No,0
+10304,46,79.89,Month-to-month,0,Fiber,Yes,1
+10305,62,101.96,Month-to-month,3,Fiber,Yes,0
+10306,15,77.35,Month-to-month,2,Fiber,No,1
+10307,12,67.32,Month-to-month,1,None,Yes,1
+10308,66,56.61,One year,0,Fiber,No,0
+10309,57,100.4,Month-to-month,1,Fiber,Yes,0
+10310,64,88.71,Two year,1,DSL,No,0
+10311,72,57.79,Month-to-month,5,Fiber,Yes,1
+10312,1,75.81,Month-to-month,2,DSL,Yes,1
+10313,19,86.66,Month-to-month,1,DSL,Yes,0
+10314,59,91.86,Month-to-month,0,Fiber,Yes,0
+10315,46,92.38,Two year,0,None,No,0
+10316,68,57.42,Month-to-month,6,DSL,Yes,0
+10317,35,113.67,One year,4,Fiber,Yes,0
+10318,53,40.65,One year,3,Fiber,No,0
+10319,49,38.94,One year,5,DSL,Yes,0
+10320,43,63.3,Month-to-month,4,Fiber,Yes,1
+10321,42,72.18,Month-to-month,0,Fiber,Yes,0
+10322,55,49.7,Month-to-month,1,DSL,No,0
+10323,71,65.0,One year,2,Fiber,Yes,0
+10324,6,82.61,Month-to-month,1,Fiber,No,1
+10325,28,58.44,Month-to-month,2,DSL,Yes,0
+10326,7,54.29,Month-to-month,1,Fiber,No,1
+10327,56,61.71,Month-to-month,1,Fiber,No,0
+10328,29,76.76,Two year,1,Fiber,Yes,0
+10329,19,37.17,Month-to-month,1,Fiber,Yes,0
+10330,32,66.88,Two year,4,Fiber,No,0
+10331,38,42.35,Month-to-month,1,Fiber,Yes,0
+10332,43,59.85,One year,2,DSL,Yes,0
+10333,26,118.2,One year,1,DSL,Yes,0
+10334,28,41.53,Month-to-month,1,DSL,No,0
+10335,45,71.15,One year,1,DSL,Yes,0
+10336,52,31.34,Month-to-month,1,Fiber,Yes,0
+10337,22,86.03,Month-to-month,0,DSL,Yes,0
+10338,3,86.03,Month-to-month,2,Fiber,Yes,0
+10339,29,71.47,Month-to-month,1,Fiber,Yes,0
+10340,69,60.71,Month-to-month,0,Fiber,Yes,0
+10341,48,18.0,Month-to-month,1,Fiber,No,0
+10342,30,61.59,One year,0,DSL,No,0
+10343,60,101.47,Month-to-month,2,Fiber,Yes,0
+10344,5,120.48,One year,3,Fiber,Yes,1
+10345,55,53.25,Two year,2,None,Yes,0
+10346,28,63.7,Month-to-month,3,DSL,Yes,0
+10347,58,,One year,3,DSL,No,0
+10348,19,68.39,Month-to-month,3,DSL,Yes,1
+10349,48,79.75,Month-to-month,4,DSL,Yes,0
+10350,48,42.99,Month-to-month,3,DSL,Yes,0
+10351,13,56.98,One year,0,Fiber,No,0
+10352,25,102.54,Two year,3,None,No,1
+10353,47,63.02,Month-to-month,2,Fiber,Yes,0
+10354,26,72.05,Month-to-month,2,Fiber,Yes,0
+10355,54,83.6,Month-to-month,2,Fiber,No,1
+10356,4,81.35,One year,1,DSL,No,0
+10357,18,54.49,Month-to-month,0,Fiber,Yes,0
+10358,53,37.69,Month-to-month,2,None,Yes,0
+10359,68,65.99,Month-to-month,0,DSL,Yes,1
+10360,12,40.93,Month-to-month,1,None,Yes,0
+10361,59,41.42,Month-to-month,1,Fiber,Yes,0
+10362,22,67.28,Month-to-month,2,DSL,No,0
+10363,49,28.96,One year,1,DSL,No,0
+10364,44,72.7,One year,0,DSL,Yes,0
+10365,51,66.38,One year,0,DSL,Yes,0
+10366,13,66.45,Month-to-month,3,DSL,Yes,1
+10367,10,122.55,Month-to-month,3,Fiber,No,1
+10368,48,58.13,One year,3,Fiber,Yes,1
+10369,50,71.39,One year,2,DSL,Yes,0
+10370,7,53.99,Month-to-month,1,DSL,Yes,1
+10371,28,76.0,One year,3,Fiber,Yes,1
+10372,52,110.49,Month-to-month,2,Fiber,Yes,0
+10373,52,43.74,Month-to-month,5,DSL,Yes,0
+10374,41,87.6,Month-to-month,3,DSL,No,0
+10375,46,58.67,Month-to-month,5,DSL,Yes,1
+10376,6,64.59,Month-to-month,2,Fiber,Yes,1
+10377,66,53.68,Month-to-month,2,Fiber,No,0
+10378,55,86.52,One year,0,Fiber,No,0
+10379,13,132.45,Month-to-month,1,Fiber,Yes,0
+10380,1,74.74,Two year,1,Fiber,Yes,1
+10381,55,103.63,Month-to-month,2,Fiber,No,1
+10382,15,22.35,Month-to-month,2,Fiber,No,0
+10383,4,99.01,Two year,3,Fiber,Yes,0
+10384,56,93.47,One year,1,Fiber,No,0
+10385,9,69.87,Month-to-month,3,Fiber,No,1
+10386,34,54.73,One year,3,DSL,Yes,0
+10387,52,67.49,One year,0,Fiber,Yes,0
+10388,36,60.46,Month-to-month,0,None,No,0
+10389,18,35.9,Two year,2,Fiber,Yes,0
+10390,5,76.21,Two year,1,DSL,No,0
+10391,54,,Two year,5,DSL,Yes,0
+10392,32,82.51,Month-to-month,3,DSL,Yes,0
+10393,59,95.3,Month-to-month,2,DSL,Yes,0
+10394,13,42.9,Two year,2,Fiber,No,0
+10395,71,77.38,Two year,3,Fiber,Yes,0
+10396,38,71.59,Month-to-month,3,Fiber,No,1
+10397,23,70.76,One year,0,Fiber,No,0
+10398,72,,One year,1,DSL,No,0
+10399,69,79.94,Month-to-month,3,None,Yes,0
+10400,64,51.16,Month-to-month,1,DSL,Yes,0
+10401,35,70.69,Month-to-month,2,None,Yes,0
+10402,14,89.42,Month-to-month,8,None,Yes,1
+10403,58,138.22,Month-to-month,2,None,Yes,1
+10404,42,91.9,Month-to-month,2,Fiber,Yes,1
+10405,60,70.08,Month-to-month,0,Fiber,No,0
+10406,5,81.6,Month-to-month,2,DSL,Yes,1
+10407,48,80.3,Two year,2,DSL,Yes,0
+10408,24,100.34,Month-to-month,2,DSL,Yes,1
+10409,72,93.33,ONE YEAR,0,Fiber,No,0
+10410,56,78.26,One year,1,DSL,Yes,0
+10411,72,67.29,One year,5,Fiber,No,0
+10412,1,71.55,Two year,2,Fiber,No,1
+10413,17,32.7,Two year,0,Fiber,Yes,0
+10414,61,98.25,Month-to-month,3,DSL,Yes,0
+10415,39,107.19,One year,2,Fiber,No,0
+10416,61,31.3,Two year,1,DSL,Yes,0
+10417,3,82.45,Two year,4,DSL,No,1
+10418,11,102.93,Month-to-month,3,Fiber,No,1
+10419,67,61.69,One year,2,Fiber,Yes,0
+10420,14,91.21,Two year,5,None,Yes,1
+10421,58,36.33,ONE YEAR,0,Fiber,Yes,0
+10422,62,93.94,Month-to-month,3,DSL,No,0
+10423,25,76.48,Two year,2,Fiber,Yes,0
+10424,35,55.14,Month-to-month,2,Fiber,Yes,0
+10425,20,69.95,One year,2,Fiber,No,0
+10426,24,54.79,One year,3,DSL,Yes,0
+10427,67,107.86,Two year,3,Fiber,Yes,1
+10428,62,,Month-to-month,2,None,Yes,0
+10429,61,,Month-to-month,1,Fiber,Yes,0
+10430,8,82.11,One year,1,DSL,Yes,0
+10431,16,54.72,Two year,3,DSL,Yes,0
+10432,70,77.06,Month-to-month,2,DSL,Yes,1
+10433,5,58.0,Month-to-month,3,None,Yes,0
+10434,61,78.02,Month-to-month,2,DSL,Yes,0
+10435,49,109.58,One year,1,Fiber,Yes,0
+10436,47,37.66,One year,0,Fiber,No,0
+10437,44,68.96,One year,2,Fiber,Yes,0
+10438,17,18.52,Month-to-month,1,DSL,Yes,0
+10439,14,81.95,Month-to-month,3,Fiber,Yes,1
+10440,35,45.21,One year,4,Fiber,No,0
+10441,20,39.52,Month-to-month,1,Fiber,Yes,0
+10442,18,63.15,Two year,0,Fiber,Yes,0
+10443,67,66.92,Month-to-month,2,Fiber,No,0
+10444,19,18.0,Month-to-month,1,Fiber,Yes,0
+10445,5,71.95,Two year,1,DSL,Yes,0
+10446,8,71.65,Two year,2,Fiber,No,0
+10447,43,74.45,Month-to-month,2,Fiber,No,0
+10448,4,111.1,Month-to-month,3,Fiber,Yes,1
+10449,31,61.71,Two year,0,DSL,No,0
+10450,21,44.32,Month-to-month,2,DSL,Yes,0
+10451,23,63.99,One year,1,Fiber,No,0
+10452,14,73.0,Month-to-month,1,Fiber,Yes,1
+10453,2,90.15,One year,2,Fiber,No,1
+10454,60,54.26,One year,1,Fiber,No,0
+10455,11,116.34,One year,2,DSL,No,1
+10456,35,,Month-to-month,0,DSL,Yes,0
+10457,4,88.89,Month-to-month,1,DSL,Yes,1
+10458,25,48.53,Month-to-month,2,Fiber,Yes,1
+10459,30,40.69,Two year,1,Fiber,No,1
+10460,67,66.93,Month-to-month,2,Fiber,Yes,0
+10461,72,71.33,Month-to-month,0,DSL,No,0
+10462,69,57.28,Two year,3,Fiber,No,0
+10463,23,28.24,Month-to-month,0,None,Yes,0
+10464,40,92.52,Month-to-month,2,DSL,Yes,0
+10465,19,80.02,Month-to-month,1,Fiber,Yes,1
+10466,9,73.05,One year,5,DSL,Yes,1
+10467,34,26.42,Two year,2,Fiber,Yes,0
+10468,14,39.85,ONE YEAR,2,Fiber,Yes,1
+10469,72,91.55,Two year,1,Fiber,Yes,0
+10470,59,56.22,Two year,1,None,Yes,0
+10471,13,33.51,Month-to-month,0,Fiber,No,0
+10472,40,74.29,Month-to-month,3,DSL,No,0
+10473,67,71.93,One year,0,DSL,No,0
+10474,52,18.0,Month-to-month,2,Fiber,Yes,0
+10475,3,53.76,Month-to-month,1,DSL,No,1
+10476,21,65.81,Two year,2,DSL,Yes,0
+10477,48,104.85,One year,0,DSL,Yes,0
+10478,20,49.54,One year,4,None,No,1
+10479,27,72.04,Month-to-month,3,Fiber,Yes,0
+10480,60,56.02,Two year,2,DSL,Yes,0
+10481,50,41.44,Month-to-month,2,DSL,Yes,0
+10482,18,83.48,One year,2,Fiber,Yes,0
+10483,60,113.56,One year,1,DSL,No,0
+10484,12,71.33,Month-to-month,0,Fiber,Yes,0
+10485,72,94.11,Month-to-month,0,Fiber,Yes,0
+10486,53,81.81,Month-to-month,1,DSL,Yes,0
+10487,1,97.85,Month-to-month,0,DSL,No,1
+10488,59,72.8,Two year,0,DSL,No,0
+10489,62,110.37,Month-to-month,1,Fiber,Yes,1
+10490,23,56.25,One year,1,DSL,No,0
+10491,10,48.18,Month-to-month,0,DSL,Yes,0
+10492,45,36.17,Two year,5,Fiber,No,0
+10493,33,,Month-to-month,1,DSL,Yes,1
+10494,10,63.64,Two year,3,DSL,No,0
+10495,44,94.7,Two year,0,Fiber,Yes,1
+10496,24,57.76,One year,2,Fiber,No,0
+10497,59,44.09,Month-to-month,6,Fiber,Yes,0
+10498,39,,Two year,1,Fiber,Yes,0
+10499,58,59.07,Two year,0,None,Yes,0
+10500,2,44.88,Month-to-month,1,DSL,Yes,0
+10501,25,97.9,Month-to-month,2,DSL,No,1
+10502,21,43.33,Two year,2,DSL,No,0
+10503,40,61.71,One year,0,Fiber,Yes,0
+10504,33,81.97,Month-to-month,1,DSL,Yes,1
+10505,59,28.24,One year,2,DSL,Yes,0
+10506,25,73.2,Month-to-month,3,Fiber,Yes,1
+10507,27,64.07,Month-to-month,0,DSL,Yes,0
+10508,42,106.86,Month-to-month,4,None,No,1
+10509,29,70.2,Month-to-month,1,DSL,No,0
+10510,64,45.73,Month-to-month,1,Fiber,Yes,0
+10511,1,107.55,Month-to-month,2,DSL,No,1
+10512,36,,Month-to-month,4,Fiber,No,1
+10513,64,118.92,Two year,1,DSL,Yes,0
+10514,17,79.84,Month-to-month,0,None,No,0
+10515,53,47.05,ONE YEAR,3,DSL,No,0
+10516,59,65.31,Month-to-month,5,None,Yes,0
+10517,58,83.02,Month-to-month,5,DSL,Yes,0
+10518,37,50.88,Month-to-month,4,Fiber,No,0
+10519,62,61.79,One year,3,Fiber,No,0
+10520,13,107.22,Month-to-month,2,Fiber,Yes,1
+10521,17,106.44,Month-to-month,2,DSL,No,0
+10522,55,40.46,Month-to-month,0,Fiber,Yes,0
+10523,50,69.3,One year,1,DSL,No,0
+10524,36,82.35,Month-to-month,1,Fiber,No,0
+10525,43,91.38,Two year,1,DSL,Yes,0
+10526,58,56.32,Month-to-month,2,Fiber,No,0
+10527,66,43.88,One year,1,DSL,No,0
+10528,49,83.89,One year,0,None,No,0
+10529,1,75.23,Two year,1,Fiber,Yes,0
+10530,39,84.04,Month-to-month,2,DSL,No,0
+10531,38,71.01,Month-to-month,2,DSL,Yes,1
+10532,33,85.24,Month-to-month,1,Fiber,No,1
+10533,38,43.02,Two year,1,None,Yes,0
+10534,51,96.57,Month-to-month,0,DSL,Yes,0
+10535,14,102.3,Month-to-month,1,DSL,Yes,1
+10536,7,86.17,Month-to-month,3,Fiber,Yes,0
+10537,25,63.02,One year,4,DSL,No,0
+10538,53,117.26,One year,5,Fiber,No,0
+10539,10,72.29,Month-to-month,2,DSL,Yes,0
+10540,34,25.75,One year,2,Fiber,Yes,0
+10541,71,118.76,Month-to-month,1,Fiber,Yes,0
+10542,52,76.79,Month-to-month,3,DSL,Yes,1
+10543,23,46.36,Two year,1,DSL,Yes,0
+10544,3,113.95,Month-to-month,2,DSL,No,1
+10545,46,60.91,Month-to-month,3,Fiber,No,0
+10546,61,18.0,Two year,0,Fiber,No,0
+10547,51,57.4,Month-to-month,2,Fiber,Yes,0
+10548,44,68.35,One year,2,Fiber,Yes,0
+10549,20,94.55,One year,2,Fiber,No,0
+10550,17,71.66,Month-to-month,4,Fiber,Yes,0
+10551,6,113.25,Two year,2,Fiber,Yes,1
+10552,66,72.01,Two year,1,DSL,Yes,0
+10553,23,74.01,Two year,4,DSL,Yes,0
+10554,52,63.61,Month-to-month,1,Fiber,Yes,0
+10555,29,86.44,Two year,4,Fiber,No,0
+10556,20,54.41,Month-to-month,3,DSL,Yes,0
+10557,16,49.43,Month-to-month,2,Fiber,Yes,0
+10558,7,127.68,Month-to-month,2,Fiber,Yes,1
+10559,42,98.34,Month-to-month,1,Fiber,Yes,0
+10560,8,39.92,Month-to-month,1,DSL,Yes,0
+10561,1,101.83,Two year,3,DSL,No,0
+10562,35,87.98,One year,2,Fiber,No,0
+10563,52,93.11,Two year,2,DSL,Yes,0
+10564,2,59.65,Two year,0,Fiber,No,0
+10565,16,91.64,Month-to-month,1,Fiber,No,1
+10566,1,79.93,Month-to-month,2,Fiber,Yes,1
+10567,43,33.44,Month-to-month,1,DSL,No,0
+10568,69,85.87,One year,1,Fiber,No,0
+10569,54,89.43,Month-to-month,2,Fiber,Yes,0
+10570,66,99.14,Month-to-month,1,None,No,0
+10571,54,27.13,One year,2,DSL,Yes,0
+10572,60,74.82,Two year,1,Fiber,No,0
+10573,28,108.61,One year,3,Fiber,No,1
+10574,25,113.43,Two year,2,None,Yes,0
+10575,6,77.26,Month-to-month,1,Fiber,No,0
+10576,61,25.09,One year,3,Fiber,Yes,0
+10577,42,41.72,One year,3,Fiber,Yes,0
+10578,7,104.54,One year,1,Fiber,No,0
+10579,39,81.35,One year,5,Fiber,Yes,0
+10580,14,32.03,Month-to-month,3,None,Yes,0
+10581,22,47.4,Month-to-month,1,Fiber,Yes,1
+10582,28,78.37,Month-to-month,3,Fiber,No,0
+10583,71,102.68,Two year,3,DSL,Yes,0
+10584,62,79.24,One year,1,DSL,No,0
+10585,55,77.77,Month-to-month,1,Fiber,Yes,0
+10586,35,88.54,Month-to-month,3,Fiber,Yes,1
+10587,46,58.84,Month-to-month,1,DSL,No,0
+10588,2,78.47,Two year,3,Fiber,Yes,1
+10589,23,83.0,One year,3,Fiber,No,1
+10590,47,48.94,Month-to-month,2,Fiber,Yes,1
+10591,17,,One year,1,Fiber,No,0
+10592,13,112.43,Month-to-month,4,Fiber,Yes,1
+10593,72,71.44,Month-to-month,3,Fiber,Yes,0
+10594,18,71.87,Month-to-month,1,Fiber,Yes,0
+10595,70,52.62,Two year,3,Fiber,Yes,0
+10596,48,29.57,Two year,2,None,No,0
+10597,5,18.0,One year,1,Fiber,Yes,0
+10598,33,82.55,Two year,1,Fiber,Yes,0
+10599,55,81.1,One year,1,Fiber,Yes,0
+10600,67,114.03,Month-to-month,1,None,Yes,0
+10601,25,59.27,One year,3,DSL,No,0
+10602,35,58.74,Month-to-month,2,Fiber,No,1
+10603,39,90.27,Month-to-month,2,DSL,Yes,0
+10604,17,62.01,Month-to-month,1,Fiber,No,1
+10605,40,21.01,Month-to-month,1,DSL,Yes,0
+10606,69,81.01,Month-to-month,1,Fiber,No,0
+10607,64,117.94,Month-to-month,2,None,No,1
+10608,45,92.04,Month-to-month,2,Fiber,No,0
+10609,5,24.53,Two year,3,Fiber,No,0
+10610,69,37.85,Two year,1,DSL,No,0
+10611,24,46.12,One year,0,DSL,Yes,0
+10612,60,88.24,One year,4,DSL,No,0
+10613,32,87.23,One year,1,DSL,Yes,0
+10614,2,30.68,One year,5,DSL,Yes,0
+10615,51,53.73,Month-to-month,2,DSL,No,1
+10616,29,80.29,Month-to-month,2,Fiber,Yes,1
+10617,12,95.29,One year,2,Fiber,No,1
+10618,49,77.64,Month-to-month,1,Fiber,No,0
+10619,31,130.21,Two year,1,DSL,Yes,1
+10620,2,90.11,One year,1,Fiber,Yes,1
+10621,61,87.72,Month-to-month,1,Fiber,Yes,0
+10622,8,85.99,Month-to-month,3,DSL,No,0
+10623,61,90.45,Two year,1,DSL,Yes,0
+10624,36,,Month-to-month,1,DSL,Yes,0
+10625,43,68.94,Two year,3,None,Yes,1
+10626,23,82.61,Month-to-month,0,Fiber,No,0
+10627,69,59.32,Month-to-month,0,DSL,Yes,1
+10628,62,49.51,Month-to-month,2,Fiber,No,0
+10629,32,56.04,One year,2,DSL,Yes,1
+10630,12,89.97,Month-to-month,2,Fiber,No,1
+10631,29,87.85,Two year,6,Fiber,Yes,1
+10632,40,30.94,Month-to-month,2,Fiber,Yes,0
+10633,48,79.26,Month-to-month,1,Fiber,Yes,1
+10634,36,92.09,Month-to-month,3,None,Yes,0
+10635,26,85.02,Month-to-month,2,Fiber,No,0
+10636,26,81.72,Two year,1,DSL,Yes,1
+10637,13,63.05,Month-to-month,2,Fiber,Yes,0
+10638,9,76.7,One year,1,Fiber,Yes,1
+10639,25,97.0,Month-to-month,0,DSL,Yes,0
+10640,6,56.08,Two year,3,Fiber,No,0
+10641,3,61.11,One year,2,Fiber,No,1
+10642,21,40.98,Two year,2,Fiber,Yes,0
+10643,21,71.88,Month-to-month,0,Fiber,No,0
+10644,53,76.7,Month-to-month,2,None,No,1
+10645,56,64.81,Month-to-month,4,DSL,Yes,0
+10646,55,72.35,Month-to-month,1,Fiber,No,0
+10647,12,45.98,Month-to-month,1,DSL,No,1
+10648,67,30.86,Month-to-month,1,Fiber,Yes,0
+10649,67,94.42,Month-to-month,0,DSL,Yes,0
+10650,9,33.53,Month-to-month,1,Fiber,No,0
